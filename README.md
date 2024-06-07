@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects that relate to my interests.
 - 📫 How to reach me email or send message. 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I studied psychology, neuroscience in college and intersted in AI and Machine Learning. I have a black dog named Amelia, and she is a german shepherd. 
+- ⚡ Fun fact: I studied psychology, neuroscience in college and intersted in AI and Machine Learning. I have a black dog named Amelia (german shepherd dog).
 
 <!---
 MRachelle0025/MRachelle0025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
