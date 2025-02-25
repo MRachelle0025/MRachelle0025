@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MRachelle0025
-- 👀 I’m interested in data visualization, software engineering, 
-- 🌱 I’m currently learning software engineering, data visualizations tools and software, machine learning, cloud development. 
+- 👀 I’m interested in data visualization, machine learning, software engineering, and AI.
+- 🌱 I’m currently learning data visualizations tools and software programming, machine learning, cloud development. 
 - 💞️ I’m looking to collaborate on projects that relate to my interests.
 - 📫 How to reach me email or send message. 
 - 😄 Pronouns: She/Her
